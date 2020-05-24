@@ -3,4 +3,9 @@
   def name
     @name
    end
+   
+ class Cat
+   attr_reader :name
+  
+   
   
