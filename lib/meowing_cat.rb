@@ -1,3 +1,6 @@
 ## code your solution here. 
-class Cat
+ class Cat
+  def name
+    @name
+   end
   
